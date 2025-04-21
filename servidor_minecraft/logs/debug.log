@@ -758,3 +758,73 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Apr2025 04:37:44.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> alm cuanto hierro
 [21Apr2025 04:37:50.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> ontas marvin xd?
 [21Apr2025 04:37:57.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> perdido man xd
+[21Apr2025 04:38:18.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> perdido?
+[21Apr2025 04:38:29.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 04:38:29.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 04:38:30.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> en tu mirada
+[21Apr2025 04:38:37.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-335, y=69, z=-266} BlockPos{x=-334, y=67, z=-268}
+[21Apr2025 04:38:44.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin has made the advancement [Not Today, Thank You]
+[21Apr2025 04:39:48.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin has made the advancement [Sweet Dreams]
+[21Apr2025 04:39:52.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonatrixGamer lost connection: Disconnected
+[21Apr2025 04:39:52.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer left the game
+[21Apr2025 04:39:52.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carles2D lost connection: Disconnected
+[21Apr2025 04:39:52.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carles2D left the game
+[21Apr2025 04:40:02.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> zzzz
+[21Apr2025 04:40:04.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> zzzz
+[21Apr2025 04:40:05.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> zzzzzz
+[21Apr2025 04:40:06.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> zzzzzzz
+[21Apr2025 04:40:07.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> zzzzz
+[21Apr2025 04:40:08.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> zzzzz
+[21Apr2025 04:40:08.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> z
+[21Apr2025 04:40:08.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> z
+[21Apr2025 04:40:08.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> z
+[21Apr2025 04:40:08.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> z
+[21Apr2025 04:40:09.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> z
+[21Apr2025 04:40:09.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> z
+[21Apr2025 04:40:09.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> z
+[21Apr2025 04:40:09.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> z
+[21Apr2025 04:40:09.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> z
+[21Apr2025 04:40:09.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> z
+[21Apr2025 04:40:10.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> z
+[21Apr2025 04:40:10.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marvin lost connection: Kicked for spamming
+[21Apr2025 04:40:10.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin left the game
+[21Apr2025 04:40:10.123] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Apr2025 04:40:18.841] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:40:18.841] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:40:18.841] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:40:18.841] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[21Apr2025 04:40:18.841] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@26d02492 into net.minecraft.network.Connection@78876212
+[21Apr2025 04:40:19.074] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:40:19.074] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:40:19.074] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:40:19.074] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[21Apr2025 04:40:19.074] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@3ab12de into net.minecraft.network.Connection@31e00795
+[21Apr2025 04:40:19.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonatrixGamer[/127.197.245.140:49245] logged in with entity id 8157 at (-446.3024528453097, -8.0, -75.44003812785702)
+[21Apr2025 04:40:19.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
+[21Apr2025 04:40:19.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marvin[/127.23.133.115:57297] logged in with entity id 8283 at (-443.5, -8.0, -75.5)
+[21Apr2025 04:40:19.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin joined the game
+[21Apr2025 04:40:37.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonatrixGamer lost connection: Disconnected
+[21Apr2025 04:40:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer left the game
+[21Apr2025 04:40:57.800] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:40:57.801] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:40:57.801] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:40:57.801] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[21Apr2025 04:40:57.801] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@5d9be5cd into net.minecraft.network.Connection@1899601a
+[21Apr2025 04:40:58.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonatrixGamer[/127.197.245.140:44271] logged in with entity id 8561 at (-444.6389710830786, -8.0, -75.5670257744356)
+[21Apr2025 04:40:58.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
+[21Apr2025 04:41:03.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HenryH118 has made the advancement [Suit Up]
+[21Apr2025 04:41:48.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> si ves telerañas agarrala con la espada
+[21Apr2025 04:41:56.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> para hacer otra cama
+[21Apr2025 04:42:28.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> ':v
+[21Apr2025 04:43:15.415] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:43:15.415] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:43:15.415] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 04:43:15.415] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[21Apr2025 04:43:15.416] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@44d42aa4 into net.minecraft.network.Connection@1075f357
+[21Apr2025 04:43:16.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carles2D[/127.32.47.78:47007] logged in with entity id 9603 at (-89.69999998807907, 56.0, 441.0316857613061)
+[21Apr2025 04:43:16.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carles2D joined the game
+[21Apr2025 04:43:29.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 04:43:29.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 04:44:33.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> ya casi no tengo madera
+[21Apr2025 04:45:34.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alkeys lost connection: Disconnected
+[21Apr2025 04:45:34.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys left the game

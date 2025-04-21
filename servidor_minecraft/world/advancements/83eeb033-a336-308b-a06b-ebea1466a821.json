@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/distant_lands": {
     "criteria": {
+      "clifftree:lukewarm_caves": "2025-04-21 04:35:06 +0000",
       "clifftree:inferno": "2025-04-21 03:31:44 +0000",
       "minecraft:dark_forest": "2025-04-21 03:28:44 +0000",
       "minecraft:forest": "2025-04-21 03:14:44 +0000",
@@ -1434,6 +1435,30 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-21 04:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-21 04:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-21 04:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-21 04:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-21 04:39:48 +0000"
     },
     "done": true
   },
