@@ -55,3 +55,11 @@
 [21Apr2025 19:17:39.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin has made the advancement [Take Aim]
 [21Apr2025 19:20:45.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin was slain by Zombie
 [21Apr2025 20:20:17.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin has made the advancement [Ice Bucket Challenge]
+[21Apr2025 20:46:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin has made the advancement [We Need to Go Deeper]
+[21Apr2025 20:49:46.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RemberV15[/127.100.237.174:38893] logged in with entity id 24341 at (-315.69999998807907, 64.0, -288.6283713353396)
+[21Apr2025 20:49:46.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RemberV15 joined the game
+[21Apr2025 20:57:52.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> hola
+[21Apr2025 21:02:27.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RemberV15 was slain by Drowned
+[21Apr2025 21:03:34.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> dormi remebe
+[21Apr2025 21:07:24.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=67, z=-358} BlockPos{x=-487, y=65, z=-358}
+[21Apr2025 21:07:24.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=67, z=-358} BlockPos{x=-487, y=65, z=-358}
