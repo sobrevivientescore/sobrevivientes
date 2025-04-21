@@ -814,3 +814,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Apr2025 21:50:49.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Apr2025 21:55:49.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Apr2025 21:55:49.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 22:00:49.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 22:00:49.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 22:05:49.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 22:05:49.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 22:08:39.089] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 22:08:39.089] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 22:08:39.089] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 22:08:39.089] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[21Apr2025 22:08:39.089] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@5a8cb5a into net.minecraft.network.Connection@1974f37
+[21Apr2025 22:08:40.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HenryH118[/127.133.214.198:52637] logged in with entity id 8363 at (-206.1627252171291, 64.17675927506424, 78.09729684608111)
+[21Apr2025 22:08:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HenryH118 joined the game
+[21Apr2025 22:08:44.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HenryH118 lost connection: Disconnected
+[21Apr2025 22:08:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HenryH118 left the game
+[21Apr2025 22:09:12.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marvin lost connection: Disconnected
+[21Apr2025 22:09:12.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin left the game
+[21Apr2025 22:09:24.179] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 22:09:24.179] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 22:09:24.179] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 22:09:24.179] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[21Apr2025 22:09:24.179] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@7192041c into net.minecraft.network.Connection@65840a9f
+[21Apr2025 22:09:24.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marvin[/127.23.133.115:48499] logged in with entity id 8749 at (-461.64325902811845, 63.0, -7.515636871724784)
+[21Apr2025 22:09:24.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin joined the game
+[21Apr2025 22:09:41.388] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 22:09:41.388] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 22:09:41.388] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[21Apr2025 22:09:41.388] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[21Apr2025 22:09:41.388] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@38d56172 into net.minecraft.network.Connection@38746bd7
+[21Apr2025 22:09:42.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HenryH118[/127.133.214.198:60277] logged in with entity id 9088 at (-206.1627252171291, 64.0, 78.09729684608111)
+[21Apr2025 22:09:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HenryH118 joined the game
+[21Apr2025 22:10:11.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> wtf retorcedio el tiempo desde la ultima vez que lo levantaron?
