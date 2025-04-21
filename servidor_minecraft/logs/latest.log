@@ -1,67 +1,52 @@
-[21Apr2025 18:34:43.486] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[21Apr2025 18:34:43.495] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[21Apr2025 18:34:43.505] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[21Apr2025 18:34:43.697] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[21Apr2025 18:34:43.834] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[21Apr2025 18:34:44.264] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[21Apr2025 18:34:45.376] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[21Apr2025 18:34:45.399] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[21Apr2025 18:34:45.900] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[21Apr2025 18:34:46.003] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[21Apr2025 18:34:53.619] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
-[21Apr2025 18:34:53.619] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
-[21Apr2025 18:34:53.639] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[21Apr2025 18:34:54.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
-[21Apr2025 18:34:55.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Found status: UP_TO_DATE Current: 21.3.3 Target: null
-[21Apr2025 18:34:55.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[21Apr2025 18:34:55.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 53.0.25 Target: 53.1.0
-[21Apr2025 18:34:55.546] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Starting version check at https://api.modrinth.com/updates/59ypHk8x/forge_updates.json
-[21Apr2025 18:34:55.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Found status: OUTDATED Current: 2.0.1 Target: 2.0.1+mod
-[21Apr2025 18:34:56.451] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21Apr2025 18:34:59.149] [Worker-Main-3/WARN] [net.minecraft.server.ReloadableServerRegistries/]: Found loot table element validation problem in {minecraft:loot_table/minecraft:blocks/snow_block}.pools[0].entries[0]: Unreachable entry!
-[21Apr2025 18:34:59.878] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
-[21Apr2025 18:34:59.911] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1449 advancements
-[21Apr2025 18:35:00.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
-[21Apr2025 18:35:00.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[21Apr2025 18:35:00.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[21Apr2025 18:35:00.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[21Apr2025 18:35:00.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[21Apr2025 18:35:00.538] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[21Apr2025 18:35:00.649] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21Apr2025 18:35:00.651] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[21Apr2025 18:35:00.651] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21Apr2025 18:35:00.651] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[21Apr2025 18:35:00.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[21Apr2025 18:35:01.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[21Apr2025 18:35:04.417] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 18:35:04.422] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 18:35:04.423] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 18:35:04.423] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 18:35:04.426] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 18:35:04.426] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 18:35:04.427] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 18:35:04.694] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3391 ms
-[21Apr2025 18:35:04.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.028s)! For help, type "help"
-[21Apr2025 18:35:04.709] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[21Apr2025 18:35:13.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alkeys[/127.125.76.53:55379] logged in with entity id 8 at (-316.39782039205505, 64.0, -284.84755161520326)
-[21Apr2025 18:35:13.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys joined the game
-[21Apr2025 18:36:40.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marvin[/127.23.133.115:44089] logged in with entity id 610 at (-448.69999998807907, -8.0, -74.76288149719608)
-[21Apr2025 18:36:40.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin joined the game
-[21Apr2025 18:36:46.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alkeys> heloder
-[21Apr2025 18:42:19.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alkeys lost connection: Disconnected
-[21Apr2025 18:42:19.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys left the game
-[21Apr2025 18:59:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin was slain by Zombie
-[21Apr2025 18:59:45.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin was slain by Zombie
-[21Apr2025 19:17:39.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin has made the advancement [Take Aim]
-[21Apr2025 19:20:45.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin was slain by Zombie
-[21Apr2025 20:20:17.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin has made the advancement [Ice Bucket Challenge]
-[21Apr2025 20:46:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin has made the advancement [We Need to Go Deeper]
-[21Apr2025 20:49:46.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RemberV15[/127.100.237.174:38893] logged in with entity id 24341 at (-315.69999998807907, 64.0, -288.6283713353396)
-[21Apr2025 20:49:46.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RemberV15 joined the game
-[21Apr2025 20:57:52.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> hola
-[21Apr2025 21:02:27.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RemberV15 was slain by Drowned
-[21Apr2025 21:03:34.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> dormi remebe
-[21Apr2025 21:07:24.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=67, z=-358} BlockPos{x=-487, y=65, z=-358}
-[21Apr2025 21:07:24.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=67, z=-358} BlockPos{x=-487, y=65, z=-358}
-[21Apr2025 21:17:38.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RemberV15> ya xd
-[21Apr2025 21:17:50.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RemberV15> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[21Apr2025 21:30:28.732] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[21Apr2025 21:30:28.734] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[21Apr2025 21:30:28.736] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[21Apr2025 21:30:28.875] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[21Apr2025 21:30:29.019] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[21Apr2025 21:30:29.411] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[21Apr2025 21:30:30.519] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Apr2025 21:30:30.529] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[21Apr2025 21:30:31.154] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[21Apr2025 21:30:31.314] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[21Apr2025 21:30:38.543] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[21Apr2025 21:30:38.544] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[21Apr2025 21:30:38.575] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[21Apr2025 21:30:39.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
+[21Apr2025 21:30:40.003] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Found status: UP_TO_DATE Current: 21.3.3 Target: null
+[21Apr2025 21:30:40.004] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Apr2025 21:30:40.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 53.0.25 Target: 53.1.0
+[21Apr2025 21:30:40.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Starting version check at https://api.modrinth.com/updates/59ypHk8x/forge_updates.json
+[21Apr2025 21:30:40.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Found status: OUTDATED Current: 2.0.1 Target: 2.0.1+mod
+[21Apr2025 21:30:41.240] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21Apr2025 21:30:44.014] [Worker-Main-3/WARN] [net.minecraft.server.ReloadableServerRegistries/]: Found loot table element validation problem in {minecraft:loot_table/minecraft:blocks/snow_block}.pools[0].entries[0]: Unreachable entry!
+[21Apr2025 21:30:44.835] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
+[21Apr2025 21:30:44.868] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1449 advancements
+[21Apr2025 21:30:45.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[21Apr2025 21:30:45.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Apr2025 21:30:45.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Apr2025 21:30:45.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Apr2025 21:30:45.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Apr2025 21:30:45.513] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Apr2025 21:30:45.663] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Apr2025 21:30:45.666] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Apr2025 21:30:45.667] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Apr2025 21:30:45.667] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Apr2025 21:30:45.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Apr2025 21:30:46.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Apr2025 21:30:49.527] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Apr2025 21:30:49.530] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Apr2025 21:30:49.530] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Apr2025 21:30:49.531] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Apr2025 21:30:49.531] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Apr2025 21:30:49.531] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Apr2025 21:30:49.531] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Apr2025 21:30:49.706] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[21Apr2025 21:30:49.762] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3557 ms
+[21Apr2025 21:30:49.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.076s)! For help, type "help"
+[21Apr2025 21:30:49.785] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Apr2025 21:30:57.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marvin[/127.23.133.115:33777] logged in with entity id 8 at (-442.2678884378591, -9.0, -101.64722120190865)
+[21Apr2025 21:30:57.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin joined the game
+[21Apr2025 21:31:39.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RemberV15[/127.100.237.174:37101] logged in with entity id 315 at (-315.5, 64.0, -287.5)
+[21Apr2025 21:31:39.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RemberV15 joined the game
+[21Apr2025 21:41:49.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> rembe dormi xd
+[21Apr2025 21:42:04.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> ando perdido xdd
