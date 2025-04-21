@@ -1,39 +1,49 @@
-[20Apr2025 23:20:05.901] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[20Apr2025 23:20:05.903] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[20Apr2025 23:20:05.905] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[20Apr2025 23:20:05.992] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/sobrevivientes/servidor_minecraft/config/fml.toml is not correct. Correcting
-[20Apr2025 23:20:05.994] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[20Apr2025 23:20:05.994] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[20Apr2025 23:20:05.995] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[20Apr2025 23:20:05.995] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[20Apr2025 23:20:06.007] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[20Apr2025 23:20:06.112] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[20Apr2025 23:20:06.435] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[20Apr2025 23:20:07.269] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[20Apr2025 23:20:07.572] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[20Apr2025 23:20:07.687] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[20Apr2025 23:20:12.826] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
-[20Apr2025 23:20:12.828] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
-[20Apr2025 23:20:12.845] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[20Apr2025 23:20:13.349] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/sobrevivientes/servidor_minecraft/config/forge-common.toml is not correct. Correcting
-[20Apr2025 23:20:13.351] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[20Apr2025 23:20:13.351] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.logLegacyTagWarnings was corrected from null to its default, OFF. 
-[20Apr2025 23:20:13.728] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20Apr2025 23:20:14.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 53.0.25 Target: 53.1.0
-[20Apr2025 23:20:14.364] [main/ERROR] [net.minecraft.server.dedicated.Settings/]: Failed to load properties from file: server.properties
-java.nio.file.NoSuchFileException: server.properties
-	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
-	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
-	at java.base/java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
-	at java.base/java.nio.file.Files.newByteChannel(Files.java:432) ~[?:?]
-	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
-	at java.base/java.nio.file.Files.newInputStream(Files.java:160) ~[?:?]
-	at TRANSFORMER/minecraft@1.21.3/net.minecraft.server.dedicated.Settings.loadFromFile(Settings.java:38) ~[forge-1.21.3-53.0.25-server.jar:?]
-	at TRANSFORMER/minecraft@1.21.3/net.minecraft.server.dedicated.DedicatedServerProperties.fromFile(DedicatedServerProperties.java:141) ~[forge-1.21.3-53.0.25-server.jar:?]
-	at TRANSFORMER/minecraft@1.21.3/net.minecraft.server.dedicated.DedicatedServerSettings.<init>(DedicatedServerSettings.java:12) ~[forge-1.21.3-53.0.25-server.jar:?]
-	at TRANSFORMER/minecraft@1.21.3/net.minecraft.server.Main.main(Main.java:131) ~[forge-1.21.3-53.0.25-server.jar:?]
+[21Apr2025 00:39:12.182] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[21Apr2025 00:39:12.185] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[21Apr2025 00:39:12.186] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[21Apr2025 00:39:12.283] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[21Apr2025 00:39:12.382] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[21Apr2025 00:39:12.608] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[21Apr2025 00:39:12.640] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'terrablender', Requested by: 'biomesoplenty', Expected range: '[4.2.0.0,)', Actual version: '[MISSING]'
+	Mod ID: 'glitchcore', Requested by: 'biomesoplenty', Expected range: '[2.2.0.2,)', Actual version: '[MISSING]'
+[21Apr2025 00:39:13.214] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[21Apr2025 00:39:13.549] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[21Apr2025 00:39:13.638] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[21Apr2025 00:39:18.954] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §ebiomesoplenty§r requires §6terrablender§r §o4.2.0.0 or above§r
+§7Currently, §6terrablender§r§7 is §o§nnot installed
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.3-53.0.25/net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.21.3-53.0.25.jar:1.0]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.base/java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:722) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:622) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.toList(ReferencePipeline.java:627) ~[?:?]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.3-53.0.25/net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:91) ~[fmlcore-1.21.3-53.0.25.jar:1.0]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.3-53.0.25/net.minecraftforge.fml.ModLoader$LazyInit.<clinit>(ModLoader.java:134) ~[fmlcore-1.21.3-53.0.25.jar:1.0]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.3-53.0.25/net.minecraftforge.fml.ModLoader.get(ModLoader.java:130) ~[fmlcore-1.21.3-53.0.25.jar:1.0]
+	at TRANSFORMER/net.minecraftforge.forge@53.0.25/net.minecraftforge.event.ForgeEventFactory.<clinit>(ForgeEventFactory.java:208) ~[forge-1.21.3-53.0.25-universal.jar:?]
+	at TRANSFORMER/net.minecraftforge.forge@53.0.25/net.minecraftforge.common.ForgeHooks.gatherItemComponents(ForgeHooks.java:1244) ~[forge-1.21.3-53.0.25-universal.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.world.item.Item.components(Item.java:134) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.world.item.ItemStack.<init>(ItemStack.java:251) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.world.item.ItemStack.<init>(ItemStack.java:235) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.world.item.Item$Properties.usingConvertsTo(Item.java:379) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.world.item.Items.<clinit>(Items.java:1081) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.world.level.block.ComposterBlock.bootStrap(ComposterBlock.java:68) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.server.Bootstrap.bootStrap(Bootstrap.java:47) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.server.Main.main(Main.java:123) ~[forge-1.21.3-53.0.25-server.jar:?]
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21.3-53.0.25/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:85) ~[fmlloader-1.21.3-53.0.25.jar!/:?]
@@ -52,36 +62,34 @@ java.nio.file.NoSuchFileException: server.properties
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.bootstrap.shim.Main.main(Main.java:97) [forge-1.21.3-53.0.25-shim.jar:2.1.3]
-[20Apr2025 23:20:14.389] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20Apr2025 23:20:15.139] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
-[20Apr2025 23:20:15.914] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
-[20Apr2025 23:20:15.935] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
-[20Apr2025 23:20:16.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
-[20Apr2025 23:20:16.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20Apr2025 23:20:16.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20Apr2025 23:20:16.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20Apr2025 23:20:16.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20Apr2025 23:20:16.430] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20Apr2025 23:20:16.494] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[20Apr2025 23:20:16.495] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[20Apr2025 23:20:16.495] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[20Apr2025 23:20:16.495] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[20Apr2025 23:20:16.495] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[20Apr2025 23:20:16.497] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[20Apr2025 23:20:16.497] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[20Apr2025 23:20:16.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20Apr2025 23:20:22.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20Apr2025 23:20:23.016] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[20Apr2025 23:20:23.494] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[20Apr2025 23:20:23.978] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[20Apr2025 23:20:24.467] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[20Apr2025 23:20:25.043] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[20Apr2025 23:20:25.475] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[20Apr2025 23:20:25.990] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[20Apr2025 23:20:26.496] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[20Apr2025 23:20:26.974] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[20Apr2025 23:20:27.466] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[20Apr2025 23:20:27.738] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4774 ms
-[20Apr2025 23:20:27.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.248s)! For help, type "help"
-[20Apr2025 23:20:27.752] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[20Apr2025 23:21:27.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[21Apr2025 00:39:19.055] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[21Apr2025 00:39:19.064] [main/ERROR] [net.minecraft.CrashReport/]: Negative index in crash report handler (21/23)
+[21Apr2025 00:39:19.081] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-04-21_00.39.19-fml.txt
+[21Apr2025 00:39:19.083] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Mod §ebiomesoplenty§r requires §6terrablender§r §o4.2.0.0 or above§r
+§7Currently, §6terrablender§r§7 is §o§nnot installed,
+	Mod §ebiomesoplenty§r requires §6glitchcore§r §o2.2.0.2 or above§r
+§7Currently, §6glitchcore§r§7 is §o§nnot installed
+]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.3-53.0.25/net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:156) ~[fmlcore-1.21.3-53.0.25.jar:1.0]
+	at TRANSFORMER/net.minecraftforge.forge@53.0.25/net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.21.3-53.0.25-universal.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.server.Main.main(Main.java:129) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21.3-53.0.25/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:85) ~[fmlloader-1.21.3-53.0.25.jar!/:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21.3-53.0.25/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.lambda$makeService$0(CommonLaunchHandler.java:69) ~[fmlloader-1.21.3-53.0.25.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.2/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:77) [modlauncher-10.2.2.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.2/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:97) [modlauncher-10.2.2.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.2/cpw.mods.modlauncher.Launcher.run(Launcher.java:116) [modlauncher-10.2.2.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.2/cpw.mods.modlauncher.Launcher.main(Launcher.java:75) [modlauncher-10.2.2.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.2/cpw.mods.modlauncher.BootstrapEntry.main(BootstrapEntry.java:17) [modlauncher-10.2.2.jar!/:?]
+	at net.minecraftforge.bootstrap@2.1.3/net.minecraftforge.bootstrap.Bootstrap.moduleMain(Bootstrap.java:188) [bootstrap-2.1.3.jar!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.bootstrap.Bootstrap.bootstrapMain(Bootstrap.java:133) [bootstrap-2.1.3.jar:2.1.3]
+	at net.minecraftforge.bootstrap.Bootstrap.start(Bootstrap.java:53) [bootstrap-2.1.3.jar:2.1.3]
+	at net.minecraftforge.bootstrap.ForgeBootstrap.main(ForgeBootstrap.java:19) [bootstrap-2.1.3.jar:2.1.3]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.bootstrap.shim.Main.main(Main.java:97) [forge-1.21.3-53.0.25-shim.jar:2.1.3]
