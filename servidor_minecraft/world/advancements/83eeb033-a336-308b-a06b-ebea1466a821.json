@@ -10,6 +10,7 @@
       "minecraft:flower_forest": "2025-04-21 22:47:02 +0000",
       "clifftree:lukewarm_caves": "2025-04-21 04:35:06 +0000",
       "clifftree:inferno": "2025-04-21 03:31:44 +0000",
+      "minecraft:savanna_plateau": "2025-04-21 23:19:21 +0000",
       "minecraft:beach": "2025-04-21 22:14:06 +0000",
       "clifftree:sparse_forest": "2025-04-21 19:46:07 +0000",
       "minecraft:dark_forest": "2025-04-21 03:28:44 +0000",
@@ -32,6 +33,7 @@
     "criteria": {
       "minecraft:flower_forest": "2025-04-21 22:47:02 +0000",
       "clifftree:inferno": "2025-04-21 03:31:44 +0000",
+      "minecraft:savanna_plateau": "2025-04-21 23:19:21 +0000",
       "minecraft:beach": "2025-04-21 22:14:06 +0000",
       "clifftree:sparse_forest": "2025-04-21 19:46:07 +0000",
       "minecraft:dark_forest": "2025-04-21 03:28:44 +0000",
@@ -1984,7 +1986,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-21 22:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-21 22:10:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-21 22:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-21 22:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-04-21 22:11:17 +0000"
     },
@@ -1996,9 +2022,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_orange_tulip": "2025-04-21 22:59:24 +0000"
+      "has_poppy": "2025-04-21 22:48:45 +0000"
     },
     "done": true
   },
@@ -2008,21 +2034,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
     "criteria": {
-      "has_porkchop": "2025-04-21 22:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-04-21 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-04-21 22:11:17 +0000"
+      "has_orange_tulip": "2025-04-21 22:59:24 +0000"
     },
     "done": true
   },
@@ -2038,15 +2052,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
-      "has_beef": "2025-04-21 22:10:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2025-04-21 22:10:34 +0000"
+      "has_white_terracotta": "2025-04-21 23:19:30 +0000"
     },
     "done": true
   },
