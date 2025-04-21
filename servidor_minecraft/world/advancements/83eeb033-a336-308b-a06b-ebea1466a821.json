@@ -7,10 +7,12 @@
   },
   "minecraft:adventure/distant_lands": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-04-21 19:36:58 +0000",
       "clifftree:lukewarm_caves": "2025-04-21 04:35:06 +0000",
       "clifftree:inferno": "2025-04-21 03:31:44 +0000",
       "minecraft:dark_forest": "2025-04-21 03:28:44 +0000",
       "minecraft:forest": "2025-04-21 03:14:44 +0000",
+      "minecraft:river": "2025-04-21 19:41:12 +0000",
       "minecraft:birch_forest": "2025-04-21 02:58:20 +0000",
       "minecraft:lush_caves": "2025-04-21 03:35:09 +0000",
       "clifftree:caves": "2025-04-21 03:31:46 +0000",
@@ -23,6 +25,7 @@
       "clifftree:inferno": "2025-04-21 03:31:44 +0000",
       "minecraft:dark_forest": "2025-04-21 03:28:44 +0000",
       "minecraft:forest": "2025-04-21 03:14:44 +0000",
+      "minecraft:river": "2025-04-21 19:41:12 +0000",
       "minecraft:birch_forest": "2025-04-21 02:58:20 +0000",
       "minecraft:lush_caves": "2025-04-21 03:35:09 +0000",
       "clifftree:caves": "2025-04-21 03:31:46 +0000",
@@ -1483,6 +1486,18 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-04-21 04:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-21 19:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-21 19:40:57 +0000"
     },
     "done": true
   },
