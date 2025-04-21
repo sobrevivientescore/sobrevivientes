@@ -111,3 +111,23 @@
 [21Apr2025 04:44:33.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> ya casi no tengo madera
 [21Apr2025 04:45:34.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alkeys lost connection: Disconnected
 [21Apr2025 04:45:34.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys left the game
+[21Apr2025 04:51:30.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> marvin
+[21Apr2025 04:51:34.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> mira este
+[21Apr2025 04:51:37.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> HOLA
+[21Apr2025 04:51:38.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> marvin tiene?
+[21Apr2025 04:51:39.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> es hierro tambien
+[21Apr2025 04:52:06.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> WOOOOAOS
+[21Apr2025 04:52:10.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonatrixGamer lost connection: Disconnected
+[21Apr2025 04:52:10.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer left the game
+[21Apr2025 04:52:19.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marvin lost connection: Disconnected
+[21Apr2025 04:52:19.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin left the game
+[21Apr2025 04:52:35.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonatrixGamer[/127.197.245.140:51359] logged in with entity id 15720 at (-539.3970833198446, -20.0, -15.989058876527336)
+[21Apr2025 04:52:35.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
+[21Apr2025 04:52:37.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marvin[/127.23.133.115:40843] logged in with entity id 15946 at (-535.3020575043223, -19.0, -11.300000011920929)
+[21Apr2025 04:52:37.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin joined the game
+[21Apr2025 04:52:59.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> no habia nada alla?
+[21Apr2025 04:53:49.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> txdxdxd si pasa :V
+[21Apr2025 04:54:22.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> bien
+[21Apr2025 04:56:46.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> bloque en mano y herramineta contruis y rompes si te equivocas
+[21Apr2025 04:57:06.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> luz dinamica
+[21Apr2025 04:57:32.674] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Carles2D just tried to change non-editable sign

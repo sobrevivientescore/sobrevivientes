@@ -1462,5 +1462,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-21 04:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-21 04:51:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
