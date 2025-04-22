@@ -182,3 +182,10 @@
 [22Apr2025 02:44:51.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys joined the game
 [22Apr2025 02:48:00.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys burned to death
 [22Apr2025 02:53:35.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer has made the advancement [Enchanter]
+[22Apr2025 03:00:57.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marvin[/127.23.133.115:43407] logged in with entity id 70144 at (-446.65106087344253, -8.0, -93.65885351314887)
+[22Apr2025 03:00:57.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin joined the game
+[22Apr2025 03:01:30.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys has made the advancement [Hot Stuff]
+[22Apr2025 03:02:40.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marvin lost connection: Disconnected
+[22Apr2025 03:02:40.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin left the game
+[22Apr2025 03:04:24.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys has made the advancement [Ice Bucket Challenge]
+[22Apr2025 03:05:48.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys has made the advancement [We Need to Go Deeper]

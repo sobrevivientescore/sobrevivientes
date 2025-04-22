@@ -389,7 +389,8 @@
       "minecraft:spider": "2025-04-21 03:02:49 +0000",
       "minecraft:zombie": "2025-04-21 03:03:41 +0000",
       "minecraft:creeper": "2025-04-21 03:11:32 +0000",
-      "minecraft:zombie_villager": "2025-04-21 03:59:07 +0000"
+      "minecraft:zombie_villager": "2025-04-21 03:59:07 +0000",
+      "minecraft:slime": "2025-04-22 03:03:39 +0000"
     },
     "done": false
   },
@@ -2063,6 +2064,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-22 03:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-22 03:00:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-04-22 02:52:56 +0000"
@@ -2093,6 +2106,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-22 03:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-22 03:00:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-22 02:52:56 +0000"
@@ -2108,6 +2133,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-04-22 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-22 03:03:47 +0000"
     },
     "done": true
   },

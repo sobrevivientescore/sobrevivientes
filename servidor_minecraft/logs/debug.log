@@ -1068,3 +1068,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Apr2025 02:53:35.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer has made the advancement [Enchanter]
 [22Apr2025 02:58:32.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Apr2025 02:58:32.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 03:00:56.868] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[22Apr2025 03:00:56.868] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[22Apr2025 03:00:56.868] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[22Apr2025 03:00:56.868] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[22Apr2025 03:00:56.868] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@6b6fd5ea into net.minecraft.network.Connection@7ebebfe
+[22Apr2025 03:00:57.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marvin[/127.23.133.115:43407] logged in with entity id 70144 at (-446.65106087344253, -8.0, -93.65885351314887)
+[22Apr2025 03:00:57.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin joined the game
+[22Apr2025 03:01:30.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys has made the advancement [Hot Stuff]
+[22Apr2025 03:02:40.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marvin lost connection: Disconnected
+[22Apr2025 03:02:40.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin left the game
+[22Apr2025 03:03:32.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 03:03:32.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 03:04:24.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys has made the advancement [Ice Bucket Challenge]
+[22Apr2025 03:05:48.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys has made the advancement [We Need to Go Deeper]
+[22Apr2025 03:08:32.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 03:08:32.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
