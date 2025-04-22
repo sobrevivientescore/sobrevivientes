@@ -173,12 +173,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-21 02:53:25 +0000",
+      "mutton": "2025-04-22 00:03:19 +0000",
       "bread": "2025-04-21 22:54:54 +0000",
       "cooked_chicken": "2025-04-21 16:30:42 +0000",
       "rotten_flesh": "2025-04-21 02:38:51 +0000",
       "cooked_mutton": "2025-04-21 03:11:39 +0000",
       "mushroom_stew": "2025-04-21 03:26:51 +0000",
-      "cooked_beef": "2025-04-21 03:33:38 +0000"
+      "cooked_beef": "2025-04-21 03:33:38 +0000",
+      "porkchop": "2025-04-22 00:03:05 +0000"
     },
     "done": false
   },
@@ -1183,6 +1185,72 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-04-21 22:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-22 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-22 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-22 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-22 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-22 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-22 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-22 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-22 00:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-22 00:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-22 00:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-22 00:09:26 +0000"
     },
     "done": true
   },
