@@ -8,16 +8,21 @@
   "minecraft:adventure/distant_lands": {
     "criteria": {
       "minecraft:flower_forest": "2025-04-21 03:27:11 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-21 03:12:43 +0000",
       "clifftree:sparse_forest": "2025-04-21 03:19:33 +0000",
       "minecraft:dark_forest": "2025-04-21 05:10:17 +0000",
       "minecraft:forest": "2025-04-21 03:17:05 +0000",
       "minecraft:taiga": "2025-04-21 05:17:31 +0000",
-      "minecraft:sunflower_plains": "2025-04-21 03:27:02 +0000",
       "minecraft:river": "2025-04-21 03:17:48 +0000",
+      "minecraft:snowy_plains": "2025-04-22 01:41:52 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-21 03:12:43 +0000",
+      "minecraft:frozen_river": "2025-04-22 01:41:53 +0000",
+      "minecraft:sunflower_plains": "2025-04-21 03:27:02 +0000",
       "minecraft:meadow": "2025-04-21 05:21:31 +0000",
       "minecraft:birch_forest": "2025-04-21 02:52:49 +0000",
+      "clifftree:cold_river": "2025-04-22 01:41:19 +0000",
+      "clifftree:tundra": "2025-04-22 01:40:37 +0000",
       "minecraft:savanna": "2025-04-21 03:56:23 +0000",
+      "clifftree:gravelly_beach": "2025-04-22 01:40:14 +0000",
       "minecraft:plains": "2025-04-21 03:17:57 +0000"
     },
     "done": false
@@ -25,14 +30,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-04-21 03:27:11 +0000",
+      "minecraft:beach": "2025-04-22 01:40:14 +0000",
       "clifftree:sparse_forest": "2025-04-21 03:19:33 +0000",
       "minecraft:dark_forest": "2025-04-21 05:10:17 +0000",
       "minecraft:forest": "2025-04-21 03:17:05 +0000",
       "minecraft:taiga": "2025-04-21 05:17:31 +0000",
-      "minecraft:sunflower_plains": "2025-04-21 03:27:02 +0000",
       "minecraft:river": "2025-04-21 03:17:48 +0000",
+      "minecraft:snowy_plains": "2025-04-22 01:41:52 +0000",
+      "minecraft:sunflower_plains": "2025-04-21 03:27:02 +0000",
       "minecraft:meadow": "2025-04-21 05:21:31 +0000",
       "minecraft:birch_forest": "2025-04-21 02:52:49 +0000",
+      "clifftree:tundra": "2025-04-22 01:40:37 +0000",
       "minecraft:savanna": "2025-04-21 03:56:23 +0000",
       "minecraft:plains": "2025-04-21 03:17:57 +0000"
     },
@@ -1603,6 +1611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-22 01:44:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-22 01:33:07 +0000"
@@ -1624,6 +1638,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-22 01:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-22 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-22 01:43:19 +0000"
     },
     "done": true
   },
@@ -1663,6 +1689,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-22 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-22 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-22 01:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-04-22 01:20:46 +0000"
@@ -1672,6 +1716,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-22 01:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-22 01:48:22 +0000"
     },
     "done": true
   },
@@ -1687,9 +1737,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-22 01:43:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-22 01:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-22 01:43:19 +0000"
     },
     "done": true
   },
@@ -1723,6 +1785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-22 01:43:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-04-22 01:20:46 +0000"
@@ -1735,6 +1803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-22 01:44:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-22 01:33:07 +0000"
@@ -1744,6 +1818,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-22 01:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-22 01:44:48 +0000"
     },
     "done": true
   },
@@ -1762,6 +1842,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-22 01:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-22 01:47:37 +0000"
     },
     "done": true
   },
