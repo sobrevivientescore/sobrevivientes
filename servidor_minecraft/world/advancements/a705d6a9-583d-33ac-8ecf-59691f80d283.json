@@ -7,29 +7,41 @@
   },
   "minecraft:adventure/distant_lands": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-04-21 03:15:16 +0000",
+      "minecraft:flower_forest": "2025-04-22 02:00:10 +0000",
+      "minecraft:beach": "2025-04-22 02:05:27 +0000",
       "clifftree:sparse_forest": "2025-04-21 03:33:17 +0000",
       "minecraft:dark_forest": "2025-04-21 03:19:04 +0000",
       "minecraft:forest": "2025-04-21 03:10:59 +0000",
       "minecraft:taiga": "2025-04-21 03:30:21 +0000",
+      "minecraft:deep_ocean": "2025-04-22 02:05:44 +0000",
       "minecraft:river": "2025-04-21 03:32:58 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-21 03:15:16 +0000",
+      "minecraft:ocean": "2025-04-22 02:05:29 +0000",
+      "minecraft:sunflower_plains": "2025-04-22 02:00:56 +0000",
       "minecraft:meadow": "2025-04-21 03:28:52 +0000",
       "minecraft:birch_forest": "2025-04-21 02:38:24 +0000",
+      "clifftree:cold_river": "2025-04-22 02:09:18 +0000",
       "clifftree:caves": "2025-04-21 03:47:26 +0000",
+      "minecraft:savanna": "2025-04-22 02:02:10 +0000",
       "minecraft:plains": "2025-04-21 03:33:34 +0000"
     },
     "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-04-22 02:00:10 +0000",
+      "minecraft:beach": "2025-04-22 02:05:27 +0000",
       "clifftree:sparse_forest": "2025-04-21 03:33:17 +0000",
       "minecraft:dark_forest": "2025-04-21 03:19:04 +0000",
       "minecraft:forest": "2025-04-21 03:10:59 +0000",
       "minecraft:taiga": "2025-04-21 03:30:21 +0000",
       "minecraft:river": "2025-04-21 03:32:58 +0000",
+      "minecraft:ocean": "2025-04-22 02:05:29 +0000",
+      "minecraft:sunflower_plains": "2025-04-22 02:00:56 +0000",
       "minecraft:meadow": "2025-04-21 03:28:52 +0000",
       "minecraft:birch_forest": "2025-04-21 02:38:24 +0000",
       "clifftree:caves": "2025-04-21 03:47:26 +0000",
+      "minecraft:savanna": "2025-04-22 02:02:10 +0000",
       "minecraft:plains": "2025-04-21 03:33:34 +0000"
     },
     "done": false
@@ -1669,6 +1681,174 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-21 18:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-22 02:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-22 02:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-22 02:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-22 02:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-22 02:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-22 02:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-22 02:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-22 02:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-22 02:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-22 02:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-22 02:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-22 02:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-22 02:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-22 02:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-22 02:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-22 02:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-22 02:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-22 02:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-22 02:19:29 +0000"
     },
     "done": true
   },
