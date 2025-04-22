@@ -1050,6 +1050,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-21 03:44:43 +0000",
+      "minecraft:spider": "2025-04-22 01:05:42 +0000",
       "minecraft:zombie": "2025-04-21 03:36:30 +0000",
       "minecraft:creeper": "2025-04-21 21:07:22 +0000",
       "minecraft:zombie_villager": "2025-04-21 20:16:53 +0000",
@@ -2058,15 +2059,27 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-22 00:39:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-04-22 00:42:05 +0000"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
-      "enchanted_item": "2025-04-22 00:39:34 +0000"
+      "minecraft_trials_edition": "2025-04-22 01:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-22 01:18:32 +0000"
     },
     "done": true
   },
