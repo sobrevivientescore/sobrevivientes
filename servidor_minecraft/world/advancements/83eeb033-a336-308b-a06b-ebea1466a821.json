@@ -15,6 +15,7 @@
       "clifftree:sparse_forest": "2025-04-21 19:46:07 +0000",
       "minecraft:dark_forest": "2025-04-21 03:28:44 +0000",
       "minecraft:forest": "2025-04-21 03:14:44 +0000",
+      "minecraft:taiga": "2025-04-22 01:38:17 +0000",
       "minecraft:river": "2025-04-21 19:41:12 +0000",
       "minecraft:lush_caves": "2025-04-21 03:35:09 +0000",
       "minecraft:dripstone_caves": "2025-04-21 03:18:46 +0000",
@@ -38,6 +39,7 @@
       "clifftree:sparse_forest": "2025-04-21 19:46:07 +0000",
       "minecraft:dark_forest": "2025-04-21 03:28:44 +0000",
       "minecraft:forest": "2025-04-21 03:14:44 +0000",
+      "minecraft:taiga": "2025-04-22 01:38:17 +0000",
       "minecraft:river": "2025-04-21 19:41:12 +0000",
       "minecraft:lush_caves": "2025-04-21 03:35:09 +0000",
       "minecraft:dripstone_caves": "2025-04-21 03:18:46 +0000",
@@ -1066,6 +1068,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-04-22 01:33:37 +0000",
       "rotten_flesh": "2025-04-21 04:32:05 +0000",
       "cooked_mutton": "2025-04-21 20:25:30 +0000",
       "potato": "2025-04-21 04:17:25 +0000",

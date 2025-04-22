@@ -60,3 +60,12 @@
 [22Apr2025 01:09:52.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin has made the advancement [Minecraft: Trial(s) Edition]
 [22Apr2025 01:17:28.680] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/7533, l='ServerLevel[world]', x=-186.41, y=121.00, z=288.44]
 [22Apr2025 01:25:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer has made the advancement [Cover Me with Diamonds]
+[22Apr2025 01:31:15.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer has made the advancement [A Seedy Place]
+[22Apr2025 01:35:03.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonatrixGamer lost connection: Disconnected
+[22Apr2025 01:35:03.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer left the game
+[22Apr2025 01:35:09.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marvin lost connection: Disconnected
+[22Apr2025 01:35:09.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin left the game
+[22Apr2025 01:35:15.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marvin[/127.23.133.115:39327] logged in with entity id 12744 at (-390.4112215671618, 69.0, -136.5366246055045)
+[22Apr2025 01:35:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin joined the game
+[22Apr2025 01:35:23.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonatrixGamer[/127.197.245.140:52005] logged in with entity id 12776 at (-393.9045019001094, 69.0, -141.13647491327364)
+[22Apr2025 01:35:23.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
