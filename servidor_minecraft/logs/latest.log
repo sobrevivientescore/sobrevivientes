@@ -51,3 +51,5 @@
 [22Apr2025 03:28:06.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> JAJAAJ
 [22Apr2025 03:28:34.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonatrixGamer lost connection: Disconnected
 [22Apr2025 03:28:34.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer left the game
+[22Apr2025 03:33:05.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonatrixGamer[/127.197.245.140:55533] logged in with entity id 2593 at (-443.49844568094807, -7.4375, -76.69999998807907)
+[22Apr2025 03:33:05.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
