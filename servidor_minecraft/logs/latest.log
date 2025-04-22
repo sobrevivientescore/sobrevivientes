@@ -71,3 +71,12 @@
 [22Apr2025 01:35:23.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
 [22Apr2025 01:48:06.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin was slain by Iron Golem
 [22Apr2025 01:48:22.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HenryH118 has made the advancement [Cover Me with Diamonds]
+[22Apr2025 01:49:28.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> -532
+[22Apr2025 01:49:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> -532 785
+[22Apr2025 01:51:56.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> -532 785
+[22Apr2025 01:55:22.281] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 01:56:25.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer has made the advancement [Ice Bucket Challenge]
+[22Apr2025 01:58:13.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marvin lost connection: Disconnected
+[22Apr2025 01:58:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin left the game
+[22Apr2025 01:58:22.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marvin[/127.23.133.115:56427] logged in with entity id 24306 at (-993.0869701044229, 75.0, 743.9247018165486)
+[22Apr2025 01:58:22.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin joined the game
