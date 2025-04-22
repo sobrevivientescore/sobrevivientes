@@ -6,3 +6,15 @@
 [22Apr2025 00:07:06.717] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player RemberV15 just tried to change non-editable sign
 [22Apr2025 00:09:58.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> DUERMAAAAAN
 [22Apr2025 00:10:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> sleep
+[22Apr2025 00:10:40.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> pls slp
+[22Apr2025 00:10:43.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Carles2D> duerman
+[22Apr2025 00:10:45.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> only for behind
+[22Apr2025 00:11:40.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=66, z=474} BlockPos{x=-85, y=64, z=474}
+[22Apr2025 00:15:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carles2D has made the advancement [Not Today, Thank You]
+[22Apr2025 00:16:09.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alkeys[/127.125.76.53:47927] logged in with entity id 23975 at (-319.46021456884955, 64.0, -292.7067275089363)
+[22Apr2025 00:16:09.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys joined the game
+[22Apr2025 00:17:27.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> te uniste a la llamada?
+[22Apr2025 00:17:46.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alkeys> x
+[22Apr2025 00:17:47.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alkeys> d
+[22Apr2025 00:18:45.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alkeys lost connection: Disconnected
+[22Apr2025 00:18:45.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys left the game
