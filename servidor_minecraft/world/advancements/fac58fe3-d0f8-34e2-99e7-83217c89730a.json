@@ -15,18 +15,22 @@
       "minecraft:meadow": "2025-04-21 05:09:00 +0000",
       "minecraft:birch_forest": "2025-04-21 03:20:01 +0000",
       "clifftree:caves": "2025-04-21 04:32:02 +0000",
-      "minecraft:plains": "2025-04-21 03:31:53 +0000"
+      "clifftree:gravelly_beach": "2025-04-21 23:57:49 +0000",
+      "minecraft:plains": "2025-04-21 03:31:53 +0000",
+      "clifftree:diorite_shore": "2025-04-21 23:52:13 +0000"
     },
     "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-04-21 23:57:49 +0000",
       "clifftree:sparse_forest": "2025-04-21 03:31:41 +0000",
       "minecraft:forest": "2025-04-21 03:31:18 +0000",
       "minecraft:taiga": "2025-04-21 05:07:16 +0000",
       "minecraft:river": "2025-04-21 03:31:20 +0000",
       "minecraft:meadow": "2025-04-21 05:09:00 +0000",
       "minecraft:birch_forest": "2025-04-21 03:20:01 +0000",
+      "minecraft:stony_shore": "2025-04-21 23:52:13 +0000",
       "clifftree:caves": "2025-04-21 04:32:02 +0000",
       "minecraft:plains": "2025-04-21 03:31:53 +0000"
     },
@@ -547,6 +551,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-21 03:36:18 +0000",
+      "minecraft:spider": "2025-04-22 00:00:02 +0000",
       "minecraft:zombie": "2025-04-21 04:11:43 +0000",
       "minecraft:creeper": "2025-04-21 04:11:47 +0000"
     },
@@ -1116,9 +1121,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-21 23:58:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-21 23:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-22 00:00:02 +0000"
     },
     "done": true
   },
@@ -1131,6 +1148,60 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-21 23:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-21 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-21 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-21 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-21 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-21 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-21 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-21 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-21 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-21 23:58:10 +0000"
     },
     "done": true
   },
