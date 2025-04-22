@@ -1,20 +1,86 @@
-[22Apr2025 00:05:02.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carles2D lost connection: Timed out
-[22Apr2025 00:05:02.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carles2D left the game
-[22Apr2025 00:05:02.221] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22Apr2025 00:05:24.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carles2D[/127.32.47.78:39061] logged in with entity id 18296 at (-47.557064946930566, 66.17675927506424, 445.7174802678636)
-[22Apr2025 00:05:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carles2D joined the game
-[22Apr2025 00:07:06.717] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player RemberV15 just tried to change non-editable sign
-[22Apr2025 00:09:58.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> DUERMAAAAAN
-[22Apr2025 00:10:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> sleep
-[22Apr2025 00:10:40.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> pls slp
-[22Apr2025 00:10:43.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Carles2D> duerman
-[22Apr2025 00:10:45.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> only for behind
-[22Apr2025 00:11:40.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=66, z=474} BlockPos{x=-85, y=64, z=474}
-[22Apr2025 00:15:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carles2D has made the advancement [Not Today, Thank You]
-[22Apr2025 00:16:09.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alkeys[/127.125.76.53:47927] logged in with entity id 23975 at (-319.46021456884955, 64.0, -292.7067275089363)
-[22Apr2025 00:16:09.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys joined the game
-[22Apr2025 00:17:27.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> te uniste a la llamada?
-[22Apr2025 00:17:46.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alkeys> x
-[22Apr2025 00:17:47.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alkeys> d
-[22Apr2025 00:18:45.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alkeys lost connection: Disconnected
-[22Apr2025 00:18:45.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys left the game
+[22Apr2025 00:23:12.797] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[22Apr2025 00:23:12.800] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[22Apr2025 00:23:12.801] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[22Apr2025 00:23:12.951] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[22Apr2025 00:23:13.112] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[22Apr2025 00:23:13.547] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[22Apr2025 00:23:14.680] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Apr2025 00:23:14.691] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[22Apr2025 00:23:15.202] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[22Apr2025 00:23:15.364] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/sobrevivientes/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[22Apr2025 00:23:23.792] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[22Apr2025 00:23:23.794] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[22Apr2025 00:23:23.824] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[22Apr2025 00:23:25.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
+[22Apr2025 00:23:25.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Found status: UP_TO_DATE Current: 21.3.3 Target: null
+[22Apr2025 00:23:25.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Apr2025 00:23:25.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 53.0.25 Target: 53.1.0
+[22Apr2025 00:23:25.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Starting version check at https://api.modrinth.com/updates/59ypHk8x/forge_updates.json
+[22Apr2025 00:23:26.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Found status: OUTDATED Current: 2.0.1 Target: 2.0.1+mod
+[22Apr2025 00:23:26.451] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22Apr2025 00:23:29.443] [Worker-Main-3/WARN] [net.minecraft.server.ReloadableServerRegistries/]: Found loot table element validation problem in {minecraft:loot_table/minecraft:blocks/snow_block}.pools[0].entries[0]: Unreachable entry!
+[22Apr2025 00:23:30.348] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
+[22Apr2025 00:23:30.382] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1449 advancements
+[22Apr2025 00:23:30.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[22Apr2025 00:23:30.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Apr2025 00:23:30.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Apr2025 00:23:30.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Apr2025 00:23:30.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Apr2025 00:23:31.023] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Apr2025 00:23:31.205] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Apr2025 00:23:31.206] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Apr2025 00:23:31.206] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Apr2025 00:23:31.207] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Apr2025 00:23:31.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Apr2025 00:23:31.588] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.133.214.198:38169] Disconnecting VANILLA connection attempt: Server is still starting! Please wait before reconnecting.
+[22Apr2025 00:23:31.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Apr2025 00:23:33.963] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.100.237.174:41563] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[22Apr2025 00:23:35.732] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.133.214.198:51227] Disconnecting VANILLA connection attempt: Server is still starting! Please wait before reconnecting.
+[22Apr2025 00:23:36.247] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 00:23:36.251] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 00:23:36.251] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 00:23:36.252] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 00:23:36.252] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 00:23:36.252] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 00:23:36.259] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 00:23:36.259] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 00:23:36.259] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 00:23:36.292] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 00:23:36.546] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4757 ms
+[22Apr2025 00:23:36.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.319s)! For help, type "help"
+[22Apr2025 00:23:36.569] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Apr2025 00:23:39.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marvin[/127.23.133.115:42505] logged in with entity id 8 at (-438.36165690277033, -3.0, -75.30000001192093)
+[22Apr2025 00:23:39.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin joined the game
+[22Apr2025 00:23:40.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HenryH118[/127.133.214.198:37541] logged in with entity id 74 at (-380.5333453990645, 65.0, -251.11716224414965)
+[22Apr2025 00:23:40.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HenryH118 joined the game
+[22Apr2025 00:23:42.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RemberV15[/127.100.237.174:60605] logged in with entity id 209 at (-415.56449480353353, 63.0, -320.72674000775424)
+[22Apr2025 00:23:42.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RemberV15 joined the game
+[22Apr2025 00:23:50.815] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Armadillo['Armadillo'/474, l='ServerLevel[world]', x=-579.36, y=65.00, z=-461.69]
+[22Apr2025 00:23:58.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carles2D[/127.32.47.78:54423] logged in with entity id 556 at (-44.23715088991022, 65.0, 441.88025669768257)
+[22Apr2025 00:23:58.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carles2D joined the game
+[22Apr2025 00:24:01.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonatrixGamer[/127.197.245.140:56885] logged in with entity id 742 at (-357.2169141730326, 4.0, 11.558769688837986)
+[22Apr2025 00:24:01.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
+[22Apr2025 00:25:29.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer has made the advancement [The Cutest Predator]
+[22Apr2025 00:25:57.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RemberV15 lost connection: Disconnected
+[22Apr2025 00:25:57.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RemberV15 left the game
+[22Apr2025 00:26:15.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonatrixGamer lost connection: Disconnected
+[22Apr2025 00:26:15.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer left the game
+[22Apr2025 00:26:27.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> zjkccosachñsaocs
+[22Apr2025 00:26:29.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> scdszdosjs
+[22Apr2025 00:26:30.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> dcsdkskdd
+[22Apr2025 00:26:39.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> me encanta la polla
+[22Apr2025 00:26:45.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> lo sabemos
+[22Apr2025 00:26:47.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> i love dick
+[22Apr2025 00:26:53.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonatrixGamer[/127.197.245.140:50009] logged in with entity id 2262 at (-358.65509038695143, 6.0, 2.6410922723076222)
+[22Apr2025 00:26:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
+[22Apr2025 00:27:09.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carles2D lost connection: Disconnected
+[22Apr2025 00:27:09.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carles2D left the game
+[22Apr2025 00:27:23.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carles2D[/127.32.47.78:59581] logged in with entity id 2547 at (-78.30000001192093, 63.0, 463.8584265251026)
+[22Apr2025 00:27:23.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carles2D joined the game
+[22Apr2025 00:27:23.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> las mujeres no deben practicar deporte, deben ir a la cocina
+[22Apr2025 00:27:25.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonatrixGamer lost connection: Disconnected
+[22Apr2025 00:27:25.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer left the game
+[22Apr2025 00:27:31.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonatrixGamer[/127.197.245.140:38437] logged in with entity id 2816 at (-358.6272072005055, -3.0, 2.3646601322174763)
+[22Apr2025 00:27:31.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
+[22Apr2025 00:31:35.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2609, l='ServerLevel[world]', x=-83.53, y=64.00, z=462.41] died, message: 'Villager was slain by Zombie'
+[22Apr2025 00:31:43.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2598, l='ServerLevel[world]', x=-82.45, y=64.00, z=462.50] died, message: 'Villager was slain by Zombie Villager'
