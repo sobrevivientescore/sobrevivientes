@@ -45,3 +45,9 @@
 [22Apr2025 03:12:41.982] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [22Apr2025 03:12:54.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonatrixGamer[/127.197.245.140:45267] logged in with entity id 8 at (-438.6572017041274, -3.0, -75.44951315467301)
 [22Apr2025 03:12:54.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
+[22Apr2025 03:26:54.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marvin[/127.23.133.115:39113] logged in with entity id 1876 at (-448.69999998807907, -8.0, -92.46566552523467)
+[22Apr2025 03:26:54.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin joined the game
+[22Apr2025 03:28:02.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonatrixGamer> xd
+[22Apr2025 03:28:06.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marvin> JAJAAJ
+[22Apr2025 03:28:34.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonatrixGamer lost connection: Disconnected
+[22Apr2025 03:28:34.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer left the game
