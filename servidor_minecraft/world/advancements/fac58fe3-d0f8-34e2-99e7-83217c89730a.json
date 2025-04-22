@@ -553,7 +553,8 @@
       "minecraft:skeleton": "2025-04-21 03:36:18 +0000",
       "minecraft:spider": "2025-04-22 00:00:02 +0000",
       "minecraft:zombie": "2025-04-21 04:11:43 +0000",
-      "minecraft:creeper": "2025-04-21 04:11:47 +0000"
+      "minecraft:creeper": "2025-04-21 04:11:47 +0000",
+      "minecraft:zombie_villager": "2025-04-22 00:33:36 +0000"
     },
     "done": false
   },
@@ -1268,6 +1269,18 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-22 00:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-04-22 00:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-04-22 00:30:12 +0000"
     },
     "done": true
   },

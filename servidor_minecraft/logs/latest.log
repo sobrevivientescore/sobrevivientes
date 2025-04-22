@@ -84,3 +84,6 @@
 [22Apr2025 00:27:31.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
 [22Apr2025 00:31:35.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2609, l='ServerLevel[world]', x=-83.53, y=64.00, z=462.41] died, message: 'Villager was slain by Zombie'
 [22Apr2025 00:31:43.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2598, l='ServerLevel[world]', x=-82.45, y=64.00, z=462.50] died, message: 'Villager was slain by Zombie Villager'
+[22Apr2025 00:38:10.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin was slain by Zombie
+[22Apr2025 00:39:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin has made the advancement [Enchanter]
+[22Apr2025 00:42:05.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin has made the advancement [Cover Me with Diamonds]
