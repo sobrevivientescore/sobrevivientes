@@ -2058,24 +2058,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-04-22 02:57:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-04-22 03:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-04-22 03:00:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-04-22 02:52:56 +0000"
@@ -2088,9 +2070,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "minecraft:recipes/combat/leather_boots": {
     "criteria": {
-      "has_book": "2025-04-22 02:57:45 +0000"
+      "has_leather": "2025-04-22 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-22 02:52:56 +0000"
     },
     "done": true
   },
@@ -2100,27 +2088,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-04-22 02:57:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_slime_ball": "2025-04-22 03:03:47 +0000"
+      "has_book": "2025-04-22 02:57:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
-      "has_paper": "2025-04-22 03:00:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-04-22 02:52:56 +0000"
+      "has_book": "2025-04-22 02:57:45 +0000"
     },
     "done": true
   },
@@ -2130,9 +2112,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_leather": "2025-04-22 02:52:56 +0000"
+      "has_paper": "2025-04-22 03:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-22 03:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-22 03:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-22 03:03:47 +0000"
     },
     "done": true
   },
