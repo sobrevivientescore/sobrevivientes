@@ -144,3 +144,41 @@
 [22Apr2025 02:27:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> en wa esta el link aviles mamahuevaxo
 [22Apr2025 02:28:36.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marvin lost connection: Disconnected
 [22Apr2025 02:28:36.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marvin left the game
+[22Apr2025 02:29:54.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RemberV15 has made the advancement [Suit Up]
+[22Apr2025 02:31:41.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alkeys> zzz
+[22Apr2025 02:31:48.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> zzz
+[22Apr2025 02:31:57.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> zzz
+[22Apr2025 02:31:57.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> zzz
+[22Apr2025 02:31:57.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> z
+[22Apr2025 02:31:58.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> z
+[22Apr2025 02:31:58.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> z
+[22Apr2025 02:31:58.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> z
+[22Apr2025 02:31:58.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> z
+[22Apr2025 02:31:58.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> z
+[22Apr2025 02:31:59.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> z
+[22Apr2025 02:31:59.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> z
+[22Apr2025 02:31:59.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> z
+[22Apr2025 02:31:59.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> z
+[22Apr2025 02:32:02.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> z
+[22Apr2025 02:32:30.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys has made the advancement [A Seedy Place]
+[22Apr2025 02:33:58.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1369, y=66, z=1078} BlockPos{x=-1369, y=65, z=1081}
+[22Apr2025 02:33:59.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1369, y=65, z=1082} BlockPos{x=-1369, y=65, z=1081}
+[22Apr2025 02:36:50.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-410, y=60, z=-322} BlockPos{x=-410, y=61, z=-322}
+[22Apr2025 02:43:28.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> sleep
+[22Apr2025 02:43:40.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HenryH118> can u sleep
+[22Apr2025 02:44:11.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HenryH118 lost connection: Disconnected
+[22Apr2025 02:44:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HenryH118 left the game
+[22Apr2025 02:44:23.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alkeys lost connection: Disconnected
+[22Apr2025 02:44:23.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys left the game
+[22Apr2025 02:44:42.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alkeys[/127.125.76.53:59377] logged in with entity id 61532 at (-1264.6648436222888, 36.0, 1047.300000011921)
+[22Apr2025 02:44:42.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys joined the game
+[22Apr2025 02:44:43.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonatrixGamer lost connection: Disconnected
+[22Apr2025 02:44:43.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer left the game
+[22Apr2025 02:44:46.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alkeys lost connection: Disconnected
+[22Apr2025 02:44:46.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys left the game
+[22Apr2025 02:44:51.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonatrixGamer[/127.197.245.140:58887] logged in with entity id 61824 at (-232.6184290546485, -15.0, 216.69999998807907)
+[22Apr2025 02:44:51.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer joined the game
+[22Apr2025 02:44:51.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alkeys[/127.125.76.53:60071] logged in with entity id 62047 at (-1264.6648436222888, 36.0, 1047.300000011921)
+[22Apr2025 02:44:51.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys joined the game
+[22Apr2025 02:48:00.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alkeys burned to death
+[22Apr2025 02:53:35.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonatrixGamer has made the advancement [Enchanter]
